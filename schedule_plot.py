@@ -1,6 +1,5 @@
 
 import matplotlib.pyplot as plt
-from collections import OrderedDict
 
 task1 = [0, 6, 3]
 task2 = [2, 5, 7]
